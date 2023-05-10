@@ -1,0 +1,59 @@
+/* Write your CSS here */
+.bg-container {
+  font-family: Roboto;
+  margin-top: 30px;
+  margin-left: 50px;
+}
+.container {
+  padding: 0px;
+}
+.heading {
+  font-family: Roboto;
+  color: #1e293b;
+  font-size: 25px;
+}
+.comments-container {
+  padding: 0px;
+  display: flex;
+}
+.input-comments {
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  margin-right: 30vh;
+}
+.para {
+  font-size: 12px;
+  font-weight: 500;
+  color: #475569;
+}
+.input {
+  padding: 7px;
+  border: solid 1px #7e858e;
+  border-radius: 3px;
+  outline: none;
+  margin-bottom: 10px;
+}
+.textarea {
+  border: solid 1px #7e858e;
+  border-radius: 3px;
+  outline: none;
+  margin-bottom: 10px;
+}
+.button {
+  background-color: #0284c7;
+  outline: none;
+  border: none;
+  color: white;
+  border-radius: 3px;
+  padding: 7px;
+  cursor: pointer;
+}
+.image {
+  height: 200px;
+  width: 260px;
+}
+.line {
+  border: solid 1px #7e858e;
+}
